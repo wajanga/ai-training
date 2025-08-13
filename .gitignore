@@ -1,0 +1,163 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Visual Studio / VS for Mac / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.iml
+*.DotSettings.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa]rtifacts/
+out/
+dist/
+app.publish/
+publish/
+[Tt]est[Rr]esults/
+[Aa]ppPackages/
+[Ll]og/
+[Ll]ogs/
+*.tlog
+tmp/
+temp/
+
+# .NET / NuGet
+artifacts/
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+*.snupkg
+*.nupkg
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage/
+coverage*.xml
+TestResult*/
+TestResults/
+
+# NCrunch
+*.ncrunch*
+*NCrunch*
+.*crunch*.local.xml
+
+# Paket
+.paket/paket.exe
+paket-files/
+
+# Node (if front-end present)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and env
+*.log
+.env
+.env.*
+```// filepath: /Users/aronkondoro/Library/Mobile Documents/com~apple~CloudDocs/Projects/WCF/.gitignore
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Visual Studio / VS for Mac / Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln.iml
+*.DotSettings.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa]rtifacts/
+out/
+dist/
+app.publish/
+publish/
+[Tt]est[Rr]esults/
+[Aa]ppPackages/
+[Ll]og/
+[Ll]ogs/
+*.tlog
+tmp/
+temp/
+
+# .NET / NuGet
+artifacts/
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+*.snupkg
+*.nupkg
+
+# Coverage
+*.coverage
+*.coveragexml
+coverage/
+coverage*.xml
+TestResult*/
+TestResults/
+
+# NCrunch
+*.ncrunch*
+*NCrunch*
+.*crunch*.local.xml
+
+# Paket
+.paket/paket.exe
+paket-files/
+
+# Node (if front-end present)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and env
+*.log
